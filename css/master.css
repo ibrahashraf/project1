@@ -1,0 +1,19 @@
+h3 {
+    color: gold;
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+div {
+    color: white;
+    background-color: goldenrod;
+    font-size: 16px;
+    padding: 5px 10px;
+}
+span {
+    color: brown;
+    font-size: 30px;
+}
+.div {
+    background-color: black;
+}
